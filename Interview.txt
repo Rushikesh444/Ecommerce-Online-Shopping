@@ -1,0 +1,11 @@
+Hooks:
+https://youtube.com/shorts/xkaGg_uZrIY?si=WH5Fm9XAN6O0DuSH
+
+Redux :
+https://youtube.com/shorts/4tsQtBxlxEc?si=xumWNoSWq_lzUkcA
+https://youtu.be/JZQWKYjfZlQ?si=5fHDaoaJqGICWwsh
+
+
+difference between usecontext and redux:
+https://youtu.be/zLvBSYE0M2E?si=p8LBdDl2P9XX0uUc
+https://youtube.com/shorts/exiy1isBMbA?si=EzX8BwZD_aB0koAw
