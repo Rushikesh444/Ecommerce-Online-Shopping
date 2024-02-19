@@ -143,9 +143,9 @@ const Products = () => {
                     <button className="btn btn-dark m-1" onClick={() => viewProduct(product)}>
                       View details
                     </button>
-                    <button className="btn btn-dark m-1" onClick={() => addProduct(product)}>
+                    {/* <button className="btn btn-dark m-1" onClick={() => addProduct(product)}>
                       Add to Cart
-                    </button>
+                    </button> */}
                   </div>
                 </div>
               </a>
