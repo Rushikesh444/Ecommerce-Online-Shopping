@@ -49,8 +49,6 @@ const MyOrders = () => {
   return (
     <>
       <div className="form-control">
-        
-
         <div>
           <Modal
             size="lg"
@@ -121,12 +119,14 @@ const MyOrders = () => {
                 <td>{order.status}</td>
                 <td>{order.deliveryDate}</td>
                 <td>
-                  <button
-                    className="btn btn-outline-danger"
-                    onClick={() => handleCancelOrder(oDetails.id)}
-                  >
-                    Cancel Order
-                  </button>
+                  {order.status !== 'DELIVERED' && (
+                    <button
+                      className="btn btn-outline-danger"
+                      onClick={() => handleCancelOrder(oDetails.id)}
+                    >
+                      Cancel Order
+                    </button>
+                  )}
                 </td>
               </tr>
             ))
