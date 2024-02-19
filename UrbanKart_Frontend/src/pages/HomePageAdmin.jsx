@@ -97,8 +97,8 @@ function HomePageAdmin() {
 
                 <div className="card-body">
                 <Link to="/updateform" state={product.id} className="btn btn-dark m-1">
-          Update Product
-        </Link>
+                  Update Product
+                </Link>
                 </div>
               </div>
             </div>

@@ -11,7 +11,7 @@ const AddCategory = () => {
     const navigate = useNavigate();
 
     const handleChange = (e)=>{
-        const {name,value} = e.target;
+    const {name,value} = e.target;
         setCategory(prevState=>{
             return{
                 ...prevState , 
@@ -25,7 +25,7 @@ const AddCategory = () => {
         
 
         if(!category.categoryName) return;
-        categoryService.addCategory(category).then(()=>{
+       categoryService.addCategory(category).then(_=>{
         alert("Category added")
         navigate('/product')
        })
@@ -71,7 +71,7 @@ const AddCategory = () => {
                                 </textarea>
                             </div>
                             <div className="text-center">
-                                <button class="my-2 mx-auto btn btn-primary" type="submit" >
+                                <button class="my-2 mx-auto btn btn-dark" type="submit" >
                                   Add Category
                                 </button>
                             </div>

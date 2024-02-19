@@ -3,6 +3,8 @@ import axios from 'axios';
 import { authHeader } from './base.service';
 const API_URL = BASE_API_URL + '/order/user';
 
+const API_URLdet = BASE_API_URL + '/orderdetails';
+
 
 class UserOrderService {
 
@@ -16,7 +18,7 @@ class UserOrderService {
 
   cancelMyOrder(id) {
     console.log("in Method"+authHeader())
-    return axios.put(API_URL+`/cancel/${id}` , id,{ headers: authHeader() })
+    return axios.put(API_URLdet+`/cancleById/${id}` , id,{ headers: authHeader() })
   }
 }
 

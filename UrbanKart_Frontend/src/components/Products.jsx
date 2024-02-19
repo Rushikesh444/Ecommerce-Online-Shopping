@@ -37,10 +37,18 @@ const Products = () => {
       navigate('/login')
       return;
     }
-    const item = new CartItem(1,currentUser.id,product.id);
+    const item=new CartItem(1,currentUser.id,product.id);
     CartService.addToCart(item).then((resp)=>{
       toast.success("Item Added To Cart" ,{autoClose: 1500});
+      // After adding to cart, navigate to product details page
+      viewProduct(product);
     });
+  } 
+
+
+  const viewProduct = (product) => {
+    // Navigate to product details page with product id as parameter
+    navigate(`/productdetails/${product.id}`);
   }
 
 
@@ -103,48 +111,47 @@ const Products = () => {
         <div className="buttons text-center py-3 mb-4" style={{backgroundColor:"#000000" , borderRadius:"5rem"}}>
           <button className="btn btn-outline-light btn-lg m-2" style={{fontSize:"1.5rem"}} onClick={() => setFilter(data)}>All</button>
           {categorie.map((cat)=>{
-            //const name=cat.categoryName;
+            const name=cat.categoryName;
             console.log(BASE_URL + cat.id );
             return <button className="btn btn-outline-light btn-lg m-2"  style={{fontSize:"1.5rem"}}  onClick={() => filterProduct(cat.id)}>{cat.categoryName}</button>
           })}
-
         </div>
         
-        {filter.map((product) => {
-          return (
-            <div id={product.id} key={product.id} class="col-md-3 col-sm-6 col-xs-8 col-12 mb-4">
-              <div className="card text-center h-100" key={product.id} style={{ border: '1px solid #000' }}>
-                <img
-                  className="card-img-top p-3"
-                  src={BASE_URL + product.id + '/image'}//src={product.image}
-                  
-                  alt="Card"
-                  height={200}
-                />
-                <div className="card-body">
-                  <h5 className="card-title">
-                    {/* {product.title.substring(0, 12)}...  */}
-                    {product.name.substring(0, 12)}...
-                  </h5>
-                  <p className="card-text">
-                    {product.description.substring(0, 90)}...
-                  </p>
+        <div className="row justify-content-center">
+          {filter.map((product) => {
+            return (
+              <a href={`/productdetails/${product.id}`} style={{ textDecoration: 'none' }} className="col-md-3 col-sm-6 mb-4">
+                <div id={product.id} key={product.id} className="card text-center h-100" style={{ border: '1px solid #000' }}>
+                  <img
+                    className="card-img-top p-3"
+                    src={BASE_URL + product.id + '/image'}//src={product.image}
+                    alt="Card"
+                    height={200}
+                  />
+                  <div className="card-body">
+                    <h5 className="card-title">
+                      {product.name.substring(0, 12)}...
+                    </h5>
+                    <p className="card-text">
+                      {product.description.substring(0, 90)}...
+                    </p>
+                  </div>
+                  <ul className="list-group list-group-flush" style={{ border: '0px solid #000' }}>
+                    <li className="list-group-item lead">Rs. {product.price}</li>
+                  </ul>
+                  <div className="card-body">
+                    <button className="btn btn-dark m-1" onClick={() => viewProduct(product)}>
+                      View details
+                    </button>
+                    <button className="btn btn-dark m-1" onClick={() => addProduct(product)}>
+                      Add to Cart
+                    </button>
+                  </div>
                 </div>
-                <ul className="list-group list-group-flush" style={{ border: '0px solid #000' }}>
-                  <li className="list-group-item lead" >Rs. {product.price}</li>
-           
-                </ul>
-                <div className="card-body">
-               
-                  <button className="btn btn-dark m-1" onClick={() => addProduct(product)}>
-                    Add to Cart
-                  </button>
-                </div>
-              </div>
-            </div>
-
-          );
-        })}
+              </a>
+            );
+          })}
+        </div>
       </>
     );
   };
