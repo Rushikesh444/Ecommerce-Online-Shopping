@@ -6,6 +6,7 @@ import { useDispatch } from "react-redux";
 import { toast } from "react-toastify";
 import CartItem from "../models/item";
 import cartService from "../services/cart.service";
+import { Link } from "react-router-dom";
 
 export const ProductsDetails = () => {
   const { id } = useParams();
@@ -77,6 +78,8 @@ export const ProductsDetails = () => {
       <button className="btn btn-dark m-1" onClick={() => addProduct(product)}>
         Add to Cart
       </button>
+
+        
     </div>
   );
 };
