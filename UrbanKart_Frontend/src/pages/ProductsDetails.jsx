@@ -78,7 +78,7 @@ export const ProductsDetails = () => {
       <button className="btn btn-dark m-1" onClick={() => addProduct(product)}>
         Add to Cart
       </button>
-
+      <Link to="/product" class="my-2 mx-auto btn btn-dark">Back to Products</Link>
         
     </div>
   );
