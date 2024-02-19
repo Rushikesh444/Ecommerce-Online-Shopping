@@ -4,7 +4,6 @@ import { authHeader, authImageHeader } from './base.service';
 const API_URL = BASE_API_URL + '/products';
 
 class ProductService {
-  
   saveProduct(product) {
     return axios.post(API_URL, product, { headers: authHeader() });
   }

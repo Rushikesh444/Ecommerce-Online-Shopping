@@ -1,160 +1,140 @@
 import React, { useEffect, useState } from "react";
 import UserOrderService from '../services/userorder.service';
-import {Modal , ModalHeader ,ModalBody } from "reactstrap";
-import Orderstatus from "../models/orderStatus";
-import store from '../redux/store';
-import {  toast } from 'react-toastify';
-import './table.css' ;
+import { Modal, ModalHeader, ModalBody } from "reactstrap";
+import { toast } from 'react-toastify';
+import './table.css';
+import store from "../redux/store";
 
 const MyOrders = () => {
-
-  const currentUser = store.getState().user; 
-  const [model,setModel]=useState(false);
+  const currentUser = store.getState().user;
+  const [model, setModel] = useState(false);
   const [orders, setOrders] = useState([]);
-  const [orderId , setOrderId] = useState(0);
-  
+  const [selectedOrderId, setSelectedOrderId] = useState(null);
+
   const BASE_URL = "http://localhost:8080/products/";
 
   useEffect(() => {
-    UserOrderService.getMyOrders(currentUser.id).then((resp) => {
-      setOrders(resp.data);
-    }).then(()=>{
-      console.log(orders)
-    })
-  }, [])
+    fetchOrders();
+  }, []);
 
-  const handleStatusChange=(e)=>{
-        setOrderId(e.target.value);
+  const fetchOrders = () => {
+    UserOrderService.getMyOrders(currentUser.id)
+      .then((resp) => {
+        setOrders(resp.data);
+      })
+      .catch(error => {
+        console.error('Error fetching orders:', error);
+      });
+  };
 
-  }
+  const handleCancelOrder = (orderId) => {
+    setSelectedOrderId(orderId);
+    setModel(true);
+  };
 
-  const renderOrders=()=>{
-
-    UserOrderService.getMyOrders(currentUser.id).then((resp) => {
-      setOrders(resp.data);
-    }).then(()=>{
-      console.log(orders)
-    })
-  }
-  
-
-  const handleStatusUpdateSubmit =(e)=>{
+  const handleStatusUpdateSubmit = (e) => {
     e.preventDefault();
-    UserOrderService.cancelMyOrder(orderId).then((resp)=>{
-      toast.success("Order Cancelled" ,{autoClose: 1500});
-      setModel(false);
-      renderOrders();
-     
-     }).catch((error)=>{
-      setModel(false);
-      toast.error(error.response.data ,{autoClose: 1500});
-     })
-  }
+    UserOrderService.cancelMyOrder(selectedOrderId)
+      .then(() => {
+        toast.success("Order Cancelled", { autoClose: 1500 });
+        setModel(false);
+        fetchOrders();
+      })
+      .catch((error) => {
+        setModel(false);
+        toast.error(error.response.data, { autoClose: 1500 });
+      });
+  };
+
   return (
     <>
-     <div className="form-control">
-      <button  className="btn btn-outline-dark m-2" onClick={()=>{setModel(true)}}> Cancel Order</button>
-     <small>please copy Order Id First</small>
+      <div className="form-control">
+        
 
-      <div>
-        <Modal
-        size="lg"
-        isOpen={model}
-        toggle={()=>setModel(!model)}
-        style={{backgroundColor:"green"}}
-        >
-           <ModalHeader toggle={()=>setModel(!model)}>
-           Cancel Order
-           </ModalHeader>
-           <ModalBody>
-            <form onSubmit={(e)=>{handleStatusUpdateSubmit(e)}}>
+        <div>
+          <Modal
+            size="lg"
+            isOpen={model}
+            toggle={() => setModel(!model)}
+            style={{ backgroundColor: "green" }}
+          >
+            <ModalHeader toggle={() => setModel(!model)}>
+              Cancel Order
+            </ModalHeader>
+            <ModalBody>
+              <form onSubmit={handleStatusUpdateSubmit}>
+                <div className="form my-3">
+                  <label htmlFor="orderId">Please confirm the Transaction ID</label>
+                  <input
+                    type="text"
+                    id="orderId"
+                    name="orderId"
+                    className="form-control"
+                    placeholder="Enter Transaction ID to be Updated"
+                    value={selectedOrderId}
+                    disabled
+                  />
+                </div>
 
-                    <div class="form my-3">
-                      <label htmlFor="orderid">
-                        Order ID
-                      </label>
-                     <input 
-                     type="text" 
-                     id="orderId"
-                     name="orderId"
-                     className="form-control" 
-                     onChange={handleStatusChange}
-                     placeholder="Enter Order ID To be Updated"/>
-                    </div>
-
-                    <div className="text-center">
-                          <button class="my-2 mx-auto btn btn-dark" type="submit" >
-                                 Cancel Order
-                          </button>
-                    </div>
-            </form>
-           </ModalBody>
-        </Modal>
+                <div className="text-center">
+                  <button className="my-2 mx-auto btn btn-dark" type="submit">
+                    Cancel Order
+                  </button>
+                </div>
+              </form>
+            </ModalBody>
+          </Modal>
+        </div>
       </div>
 
-
-
-
-
-     </div>
-      <table class="table">
-        <thead class="thead-dark">
+      <table className="table">
+        <thead className="thead-dark">
           <tr>
-            <th scope="col">OId</th>
+            <th scope="col">Transaction ID</th>
+            <th scope="col">Order ID</th>
             <th scope="col">Product</th>
             <th scope="col">Name</th>
-
             <th scope="col">Total Price</th>
-
             <th scope="col">Mobile Number</th>
             <th scope="col">Status</th>
             <th scope="col">Delivered</th>
-            <th scope="col"></th>
+            <th scope="col">Action</th>
           </tr>
         </thead>
         <tbody>
-          {
-            orders.map((order) => {
-              return (
-                <>
-                  {
-                    order.orderDetails.map((oDetails) => {
-                      return (
-                        <>
-                          <tr>
-                            <td >{order.id}</td>
-                            <td >
-                                <img
-                                  src={BASE_URL + oDetails.productId.id + '/image'}
-                                  width={100}
-                                  height={75}
-                                  alt={oDetails.productId.name}
-                                />
-                            </td>
-                            <td >{oDetails.productId.name}</td>
-                            <td >{oDetails.totalPrice + order.shippingPrice}</td>
-
-                            <td >{order.userOrdered.mobileNumber}</td>
-                            <td >{order.status}</td>
-                            <td >{order.deliveryDate}</td>
-                          </tr>
-                        </>
-                      );
-                    })
-                  }
-                </>
-              )
-            })
-          }
+          {orders.map((order) => (
+            order.orderDetails.map((oDetails, index) => (
+              <tr key={index}>
+                <td>{oDetails.id}</td>
+                <td>{order.id}</td>
+                <td>
+                  <img
+                    src={`${BASE_URL}${oDetails.productId.id}/image`}
+                    width={100}
+                    height={75}
+                    alt={oDetails.productId.name}
+                  />
+                </td>
+                <td>{oDetails.productId.name}</td>
+                <td>{oDetails.totalPrice + order.shippingPrice}</td>
+                <td>{order.userOrdered.mobileNumber}</td>
+                <td>{order.status}</td>
+                <td>{order.deliveryDate}</td>
+                <td>
+                  <button
+                    className="btn btn-outline-danger"
+                    onClick={() => handleCancelOrder(oDetails.id)}
+                  >
+                    Cancel Order
+                  </button>
+                </td>
+              </tr>
+            ))
+          ))}
         </tbody>
       </table>
-
     </>
-
-
   );
-
-
-}
+};
 
 export default MyOrders;

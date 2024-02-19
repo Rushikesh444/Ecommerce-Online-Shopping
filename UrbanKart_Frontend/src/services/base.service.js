@@ -11,7 +11,6 @@ export const authHeader = () => {
     Authorization: 'Bearer ' + currentUser?.token,
   };
 };
-
 export const authImageHeader = () => {
   const currentUser = store.getState().user;
 

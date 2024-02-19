@@ -22,7 +22,7 @@ const Cart = () => {
       setCart(response.data);
       // console.log(response.data);
 
-    });
+      });
 
   }, []);
 
@@ -36,7 +36,7 @@ const Cart = () => {
         <div className="row">
           <div className="col-md-12 py-5 bg-light text-center">
             <h4 className="p-3 display-5">Your Cart is Empty</h4>
-            <Link to="/product" className="btn  btn-outline-dark mx-4">
+            <Link to="/" className="btn  btn-outline-dark mx-4">
               <i className="fa fa-arrow-left"></i> Continue Shopping
             </Link>
           </div>
@@ -97,8 +97,7 @@ const Cart = () => {
      
       cart.totalItems > 0 ? <ShowCart /> : <EmptyCart />
 
-    }
-    else{
+    }else{
       CartService.decreaseItem(product.id).then((resp)=>{
         cart.cartItems.map((item)=>{
           if(item.productId.id===product.productId.id){
@@ -120,7 +119,8 @@ const Cart = () => {
   
       });
     }
-    
+
+
     dispatch(delCart(product));
   };
 
@@ -142,51 +142,51 @@ const Cart = () => {
                     {cart.cartItems.map((item) => {
                       return (
                         <div key={item.id}>
-                          <div className="row d-flex align-items-center">
-                            <div className="col-lg-2 col-md-12">
-                              <div className="bg-image rounded" data-mdb-ripple-color="light">
-                                <img
-                                  src={`${BASE_URL}${item.productId.id}/image`} // Assuming BASE_URL is defined elsewhere
-                                  alt={item.productName}
-                                  width={200}
-                                  height={150}
-                                />
-                              </div>
-                            </div>
-
-                            <div className="col-lg-5 col-md-6">
-                              <p>
-                                <strong>{item.productName}</strong>
-                              </p>
-                            </div>
-
-                            <div className="col-lg-12 col-md-6">
-                              <div className="d-flex mb-4" style={{ maxWidth: "300px" }}>
-                                <button
-                                  className="btn btn-light px-3"
-                                  onClick={() => {
-                                    removeItem(item);
-                                  }}
-                                >
-                                  <i className="fas fa-minus"></i>
-                                </button>
-
-                                <p className="mx-5">{item.quantity}</p>
-
-                                <button
-                                  className="btn btn-light px-3"
-                                  onClick={() => {
-                                    addItem(item);
-                                  }}
-                                >
-                                  <i className="fas fa-plus"></i>
-                                </button>
-                              </div>
+                        <div className="row d-flex align-items-center">
+                          <div className="col-lg-2 col-md-12">
+                            <div className="bg-image rounded" data-mdb-ripple-color="light">
+                              <img
+                                src={`${BASE_URL}${item.productId.id}/image`} 
+                                alt={item.productName}
+                                width={200}
+                                height={150}
+                              />
                             </div>
                           </div>
 
-                          <hr className="my-4" />
+                          <div className="col-lg-5 col-md-6">
+                            <p>
+                              <strong>{item.productName}</strong>
+                            </p>
+                          </div>
+
+                          <div className="col-lg-12 col-md-6">
+                            <div className="d-flex mb-4" style={{ maxWidth: "300px" }}>
+                              <button
+                                className="btn btn-light px-3"
+                                onClick={() => {
+                                  removeItem(item);
+                                }}
+                              >
+                                <i className="fas fa-minus"></i>
+                              </button>
+
+                              <p className="mx-5">{item.quantity}</p>
+
+                              <button
+                                className="btn btn-light px-3"
+                                onClick={() => {
+                                  addItem(item);
+                                }}
+                              >
+                                <i className="fas fa-plus"></i>
+                              </button>
+                            </div>
+                          </div>
                         </div>
+
+                        <hr className="my-4" />
+                      </div>
 
                       );
                     })}
@@ -203,7 +203,7 @@ const Cart = () => {
                       {
                         cart.cartItems.map((item,index)=>{
                           return(<li className="list-group-item d-flex justify-content-between align-items-center border-0 px-0 pb-0">
-                            {index+1}  {item.productId.name} x {item.quantity}  <span>Rs {item.totalPrice}</span>
+                            {index+1})  {item.productId.name} x {item.quantity}  <span>Rs {item.totalPrice}</span>
                           </li>)
                         })
                       }

@@ -3,6 +3,7 @@ import '../node_modules/font-awesome/css/font-awesome.min.css';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { Provider } from 'react-redux';
+import {ProductsDetails} from './pages/ProductsDetails';
 import store from './redux/store';
 
 
@@ -11,6 +12,7 @@ import { Navbar, Team } from './components';
 import AddCategory from './pages/AddCategory';
 import UpdateProduct from './pages/HomePageAdmin';
 import UpdateFormAdmin from './pages/UpdateFormAdmin';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -38,6 +40,10 @@ root.render(
         <Route path="/updateform" element={< UpdateFormAdmin />}/>
         <Route path="/placedorders" element={< OrdersPage />}/>
         <Route path='/team' element={<Team/>}/>
+        <Route path="/productdetails/:id" element={<ProductsDetails />} />
+
+
+     
       </Routes>
     </Provider>
   </BrowserRouter>

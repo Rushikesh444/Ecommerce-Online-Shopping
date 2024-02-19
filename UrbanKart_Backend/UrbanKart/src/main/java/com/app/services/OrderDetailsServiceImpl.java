@@ -19,4 +19,8 @@ public class OrderDetailsServiceImpl implements OrderDetailsService {
 	public OrderDetails saveOrderDetails(OrderDetails orderDetails) {
 		return detailsRepository.save(orderDetails);
 	}
+	
+	public void deleteOrder(Long id) {		
+		detailsRepository.deleteById(id);	
+	}
 }

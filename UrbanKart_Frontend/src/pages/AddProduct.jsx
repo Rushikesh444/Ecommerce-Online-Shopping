@@ -179,7 +179,7 @@ const AddCategory = () => {
 
 
                             <div className="text-center">
-                                <button class="my-2 mx-auto btn btn-primary" type="submit" >
+                                <button class="my-2 mx-auto btn btn-dark" type="submit" >
                                     Add Product
                                 </button>
                             </div>

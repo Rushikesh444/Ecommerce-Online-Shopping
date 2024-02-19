@@ -85,20 +85,22 @@ const Navbar = () => {
                         }
 
                         {
-                            (user?.role === Role.ADMIN) ?
+                        (user?.role === Role.ADMIN) ?
 
-                                <span>
-                                <NavLink to="/users" className="btn btn-outline-light m-2"><i class="fa fa-user" aria-hidden="true"></i> Users</NavLink>
-                                <NavLink to="/addcategory" className="btn btn-outline-light m-2"><i className="fa fa-solid fa-plus"></i>Add Category</NavLink>
-                                <NavLink to="/addproduct" className="btn btn-outline-light m-2"><i className="fa fa-solid fa-plus"></i> Add Product</NavLink>
+                            <span>
+                            <NavLink to="/users" className="btn btn-outline-light m-2"><i class="fa fa-user" aria-hidden="true"></i> Users</NavLink>
+                            <NavLink to="/addcategory" className="btn btn-outline-light m-2"><i className="fa fa-solid fa-plus"></i>Add Category</NavLink>
+                            <NavLink to="/addproduct" className="btn btn-outline-light m-2"><i className="fa fa-solid fa-plus"></i> Add Product</NavLink>
                                 <NavLink to="/placedorders" className="btn btn-outline-light m-2"><i class="fa-solid fa-pen-to-square"></i> All Orders Details</NavLink> 
-                                </span>
+                            </span>
 
 
-                                :
-                                <>
+                            :
+                            <>
 
-                                </>
+                            </>
+
+
 
                         }
 
@@ -118,10 +120,10 @@ const Navbar = () => {
                                   <NavLink to="/cart" className="btn btn-outline-light m-2"><i className="fa fa-cart-shopping mr-1"></i> Cart </NavLink>
                                   <NavLink to="/myorders" className="btn btn-outline-light m-2"><i className="fa fa-cart-shopping mr-1"></i> My Orders </NavLink>
                                 </>     
-                         }
+                        }
                       
                         {user && (
-                            <span className="text-light">Welcome {user.firstName}</span>
+                        <span className="text-light">Welcome {user.firstName}</span>
                         )}
 
                     </div>
@@ -131,6 +133,6 @@ const Navbar = () => {
             </div>
         </nav>
     )
-};
+}
 
-export default Navbar;
+export default Navbar
