@@ -88,9 +88,9 @@ const Navbar = () => {
                         (user?.role === Role.ADMIN) ?
 
                             <span>
-                            <NavLink to="/users" className="btn btn-outline-light m-2"><i class="fa fa-user" aria-hidden="true"></i> Users</NavLink>
-                            <NavLink to="/addcategory" className="btn btn-outline-light m-2"><i className="fa fa-solid fa-plus"></i>Add Category</NavLink>
-                            <NavLink to="/addproduct" className="btn btn-outline-light m-2"><i className="fa fa-solid fa-plus"></i> Add Product</NavLink>
+                                <NavLink to="/users" className="btn btn-outline-light m-2"><i class="fa fa-user" aria-hidden="true"></i> Users</NavLink>
+                                <NavLink to="/addcategory" className="btn btn-outline-light m-2"><i className="fa fa-solid fa-plus"></i>Add Category</NavLink>
+                                <NavLink to="/addproduct" className="btn btn-outline-light m-2"><i className="fa fa-solid fa-plus"></i> Add Product</NavLink>
                                 <NavLink to="/placedorders" className="btn btn-outline-light m-2"><i class="fa-solid fa-pen-to-square"></i> All Orders Details</NavLink> 
                             </span>
 

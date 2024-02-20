@@ -6,8 +6,6 @@ import { useDispatch } from "react-redux";
 import { toast } from "react-toastify";
 import CartItem from "../models/item";
 import cartService from "../services/cart.service";
-import { Link } from "react-router-dom";
-
 export const ProductsDetails = () => {
   const { id } = useParams();
   const [product, setProduct] = useState(null);
@@ -60,26 +58,49 @@ export const ProductsDetails = () => {
   }
 
   return (
-    
-    <div style={{ textAlign: 'center', maxWidth: '800px', margin: 'auto', padding: '20px' }}>
-      <h2 style={{ marginBottom: '10px' }}>{product.name}</h2>
-      <div style={{ marginBottom: '20px', maxWidth: '300px', margin: 'auto' }}>
-        {imageURL && <img src={imageURL} alt="Product" style={{ width: '100%', borderRadius: '10px', boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)' }} />}
-      </div>
-      <div style={{ backgroundColor: 'white', color: 'black', borderRadius: '10px', padding: '20px', textAlign: 'left' }}>
+    <>
+   <div style={{ width: '100%', background:'none'}}>
+  <div className="mt-5" style={{ backgroundColor: 'black', border: '1px solid black', textAlign: 'center', margin: 'auto', padding: '20px' }}>
+    <div className="d-lg-flex py-3 px-3" style={{ boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)' }}>
 
-
-      <p style={{ marginBottom: '10px', fontSize: '18px' }}><strong>Name :</strong> {product.name}</p>
-        <p style={{ marginBottom: '10px', fontSize: '18px' }}><strong>Description:</strong> {product.description}</p>
-        <p style={{ marginBottom: '10px', fontSize: '18px' }}><strong>Price:</strong> Rs. {product.price}</p>
-        {/* Add more details as needed */}
+      <div style={{display: 'flex', alignItems: 'center', height: '25rem', marginBottom: '20px', maxWidth: '300px', backgroundColor: 'none', margin: 'auto', borderBottomRightRadius: '0px', borderTopRightRadius: 'none' }}>
+        {imageURL && <img src={imageURL} alt="Product" style={{ height: '100%', width: '100%', boxShadow: '0 4px 8px rgba(0, 0, 0, 0.1)' }} />}
       </div>
 
-      <button className="btn btn-dark m-1" onClick={() => addProduct(product)}>
-        Add to Cart
-      </button>
-      <Link to="/product" class="my-2 mx-auto btn btn-dark">Back to Products</Link>
-        
+      <div className='mt-2 ml-2' style={{ height: '25rem', width: '100%', border: '5px solid #ffdb58', color: 'white', borderTopLeftRadius: '0px', borderBottomLeftRadius: '0px', borderRadius: '10px', padding: '20px', textAlign: 'left' }}>
+
+  <h2 style={{ marginBottom: '10px' }}>{product.name}</h2>
+
+  <p style={{ marginBottom: '10px', fontSize: '18px' }}><strong>Name :</strong> {product.name}</p>
+  <p style={{ marginBottom: '10px', fontSize: '18px' }}><strong>Description:</strong> {product.description}</p>
+  <p style={{ marginBottom: '10px', fontSize: '18px' }}><strong>Price:</strong> Rs. {product.price}</p>
+  {/* Add more details as needed */}
+  <button className="btn m-1" style={{ backgroundColor: '#ffdb58', color: 'black', fontWeight: '500', transition: 'all 0.3s', border: 'none' }} onClick={() => addProduct(product)}>
+    Add to Cart
+  </button>
+  <a href="http://localhost:3000/product">
+    <button className="btn m-1" style={{ backgroundColor: '#ffdb58', color: 'black', fontWeight: '500', transition: 'all 0.3s', border: 'none' }} >
+      Back To Products
+    </button>
+  </a>
+
+  <style jsx>{`
+    .btn {
+      cursor: pointer;
+    }
+    .btn:hover {
+      transform: scale(1.1);
+      border: 2px solid black;
+    }
+  `}</style>
+</div>
+
     </div>
+  </div>
+</div>
+
+{/* ------------------------------ ------------------------------- ----------------------- */}
+    
+    </>
   );
 };
