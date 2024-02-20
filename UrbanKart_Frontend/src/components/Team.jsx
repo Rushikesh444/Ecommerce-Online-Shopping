@@ -44,7 +44,7 @@ const TeamComponent = () => {
       linkedn: 'https://www.linkedin.com/in/venkatesh-pujari-632101248/',
       gmail:'venkateshpujari333@gmail.com',
       insta:'#',
-      description: "Meet Venkatesh, our visionary founder, driving Urbankart's urban lifestyle revolution.",
+      description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur commodo consequat.',
       photo: venkatesh,
       phn : 9008439330
     },
@@ -55,7 +55,7 @@ const TeamComponent = () => {
       linkedn: 'https://www.linkedin.com/in/rushikesh-nimje-6418731b3',
       gmail:'rushikeshnimje444@gmail.com',
       insta:'https://www.instagram.com/rushikesh_nimje/',
-      description: "Rushikesh, our customer care extraordinaire, personalizes every Urbankart interaction for you.",
+      description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur commodo consequat.',
       photo: rushikesh, 
       phn : 9518394332
 
@@ -67,7 +67,7 @@ const TeamComponent = () => {
       linkedn: "https://www.linkedin.com/in/aniket-pardeshi-69933b21b",
       gmail:'aniketpardeshi2001@gmail.com',
       insta:'#',
-      description: "Aniket, our tech wizard, crafts seamless experiences for Urbankart's users.",
+      description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur commodo consequat.',
       photo: aniket, 
       phn : 9834985338
 
@@ -79,7 +79,7 @@ const TeamComponent = () => {
       linkedn: "https://www.linkedin.com/in/pushpak-gulkari-b11141201",
       gmail:'gulkaripushpak@gmail.com',
       insta:'#',
-      description: "Pushpak, our meticulous operations manager, ensures flawless deliveries in the urban hustle.",
+      description: 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur commodo consequat.',
       photo: pushpak,
       phn : 9011123007
 
@@ -91,7 +91,7 @@ const TeamComponent = () => {
       linkedn: 'https://www.linkedin.com/in/sabiha-naikawadi-5b5872248/',
       gmail:'sabiha.naikawadi3@gmail.com',
       insta:'#',
-      description: "Sabiha, our creative powerhouse, shapes Urbankart's aesthetic with trendsetting designs.",
+      description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
       photo:sabiha,
       phn : 7775846686
 
