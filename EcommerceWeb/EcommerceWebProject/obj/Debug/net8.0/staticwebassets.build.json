@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wOrHTAvShSwbELb93pHO6zl8KkouhuLA+/ibV1gm1oE=",
+  "Hash": "gcYMrVny2ZyrqUm2vZ56sTA8rSMbH9HXT9nwKYh/ETw=",
   "Source": "EcommerceWebProject",
   "BasePath": "_content/EcommerceWebProject",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EcommerceWebProject\\wwwroot",
       "Source": "EcommerceWebProject",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\Microsoft.AspNetCore.Components.QuickGrid.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\QuickGrid.razor.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\QuickGrid.razor.js",
       "SourceId": "Microsoft.AspNetCore.Components.QuickGrid",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\",
       "BasePath": "_content/Microsoft.AspNetCore.Components.QuickGrid",
       "RelativePath": "QuickGrid.razor.js",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\QuickGrid.razor.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.0\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -109,13 +109,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -128,13 +128,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -147,13 +147,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -166,13 +166,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -185,13 +185,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -204,13 +204,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -223,13 +223,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -242,13 +242,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -261,13 +261,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -280,13 +280,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -299,13 +299,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -318,13 +318,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -356,13 +356,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -375,13 +375,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -394,13 +394,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -413,13 +413,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -432,13 +432,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -451,13 +451,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -470,13 +470,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -489,13 +489,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -508,13 +508,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -527,13 +527,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -546,13 +546,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -565,13 +565,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -584,13 +584,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -603,13 +603,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -622,13 +622,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -641,13 +641,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -679,13 +679,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -698,13 +698,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -717,13 +717,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -736,13 +736,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -755,13 +755,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -774,13 +774,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -793,13 +793,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -812,13 +812,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -831,13 +831,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -850,13 +850,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -869,13 +869,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -888,13 +888,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -907,13 +907,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -926,13 +926,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -945,13 +945,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -964,13 +964,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1002,13 +1002,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1021,13 +1021,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1040,13 +1040,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1059,13 +1059,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1078,13 +1078,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1097,13 +1097,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1116,13 +1116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1135,13 +1135,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1154,13 +1154,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\gulka\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.1\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceWebProject.styles.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceWebProject.styles.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "EcommerceWebProject.styles.css",
       "AssetKind": "All",
@@ -1211,13 +1211,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceWebProject.styles.css"
+      "OriginalItemSpec": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EcommerceWebProject.styles.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceWebProject.bundle.scp.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceWebProject.bundle.scp.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "EcommerceWebProject.bundle.scp.css",
       "AssetKind": "All",
@@ -1230,13 +1230,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceWebProject.bundle.scp.css"
+      "OriginalItemSpec": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceWebProject.bundle.scp.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\css\\footer.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\css\\footer.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "css/footer.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\footer.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\css\\site.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\css\\site.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\favicon.ico",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\favicon.ico",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\098_Venkatesh Pujari_jh jpg.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\098_Venkatesh Pujari_jh jpg.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/098_Venkatesh Pujari_jh jpg.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\images\\098_Venkatesh Pujari_jh jpg.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\230940520007_Aniket_Pardeshi_JH2.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\230940520007_Aniket_Pardeshi_JH2.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/230940520007_Aniket_Pardeshi_JH2.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\images\\230940520007_Aniket_Pardeshi_JH2.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\about.svg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\about.svg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/about.svg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\images\\about.svg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Add Product.svg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Add Product.svg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/Add Product.svg",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Add Product.svg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\computer-security-with-login-password-padlock.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\computer-security-with-login-password-padlock.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/computer-security-with-login-password-padlock.jpg",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\images\\computer-security-with-login-password-padlock.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\contact.svg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\contact.svg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/contact.svg",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\images\\contact.svg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Create Category.svg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Create Category.svg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/Create Category.svg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Create Category.svg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Create Company.svg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Create Company.svg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/Create Company.svg",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Create Company.svg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Delete Category.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Delete Category.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/Delete Category.jpg",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Delete Category.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\IMG-20231231-WA0007.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\IMG-20231231-WA0007.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/IMG-20231231-WA0007.jpg",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\images\\IMG-20231231-WA0007.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\main.svg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\main.svg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/main.svg",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\images\\main.svg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Order Placed1.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\Order Placed1.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/Order Placed1.jpg",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Order Placed1.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\orderconfarmation.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\orderconfarmation.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/orderconfarmation.jpg",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\images\\orderconfarmation.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\OrderPlaced2.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\OrderPlaced2.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/OrderPlaced2.jpg",
       "AssetKind": "All",
@@ -1556,12 +1556,12 @@
       "OriginalItemSpec": "wwwroot\\images\\OrderPlaced2.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\03e795aa-8526-42da-9764-239d3d16775a.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\05e7efa4-544d-49fe-bc79-fc69f7b23fca.webp",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
-      "RelativePath": "images/product/03e795aa-8526-42da-9764-239d3d16775a.jpg",
+      "RelativePath": "images/product/05e7efa4-544d-49fe-bc79-fc69f7b23fca.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1572,15 +1572,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\03e795aa-8526-42da-9764-239d3d16775a.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\05e7efa4-544d-49fe-bc79-fc69f7b23fca.webp"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\08d6c82f-ccd6-4986-9bd9-f051d75fe6ee.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\09e3bfbf-bf90-45fe-b5a7-afff8ecfe454.webp",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
-      "RelativePath": "images/product/08d6c82f-ccd6-4986-9bd9-f051d75fe6ee.jpg",
+      "RelativePath": "images/product/09e3bfbf-bf90-45fe-b5a7-afff8ecfe454.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1591,13 +1591,32 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\08d6c82f-ccd6-4986-9bd9-f051d75fe6ee.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\09e3bfbf-bf90-45fe-b5a7-afff8ecfe454.webp"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\22b3fab6-cb05-4bbf-87c1-6ee10dc85ecf.jpeg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\146f8e27-ace0-45ac-b31a-8aa08a6005c0.webp",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "BasePath": "_content/EcommerceWebProject",
+      "RelativePath": "images/product/146f8e27-ace0-45ac-b31a-8aa08a6005c0.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\146f8e27-ace0-45ac-b31a-8aa08a6005c0.webp"
+    },
+    {
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\22b3fab6-cb05-4bbf-87c1-6ee10dc85ecf.jpeg",
+      "SourceId": "EcommerceWebProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/22b3fab6-cb05-4bbf-87c1-6ee10dc85ecf.jpeg",
       "AssetKind": "All",
@@ -1613,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\22b3fab6-cb05-4bbf-87c1-6ee10dc85ecf.jpeg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\360d6d4e-0ea6-4b29-8572-3007f33fb7f0.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\360d6d4e-0ea6-4b29-8572-3007f33fb7f0.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/360d6d4e-0ea6-4b29-8572-3007f33fb7f0.jpg",
       "AssetKind": "All",
@@ -1632,12 +1651,12 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\360d6d4e-0ea6-4b29-8572-3007f33fb7f0.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\463c51d1-cc0e-485a-9720-fd928f7f016b.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\40b302c9-b0d4-4746-b6c5-ac26a3b9ed9c.webp",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
-      "RelativePath": "images/product/463c51d1-cc0e-485a-9720-fd928f7f016b.jpg",
+      "RelativePath": "images/product/40b302c9-b0d4-4746-b6c5-ac26a3b9ed9c.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1648,13 +1667,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\463c51d1-cc0e-485a-9720-fd928f7f016b.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\40b302c9-b0d4-4746-b6c5-ac26a3b9ed9c.webp"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\4fdb8638-af56-453d-9529-1555c1bd94bc.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\4fdb8638-af56-453d-9529-1555c1bd94bc.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/4fdb8638-af56-453d-9529-1555c1bd94bc.jpg",
       "AssetKind": "All",
@@ -1670,29 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\4fdb8638-af56-453d-9529-1555c1bd94bc.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\53d89f15-8ce7-4ce0-9aff-b0b7f9d924a4.png",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\583d3502-b857-436f-9f14-9ecc0c79b275.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
-      "BasePath": "_content/EcommerceWebProject",
-      "RelativePath": "images/product/53d89f15-8ce7-4ce0-9aff-b0b7f9d924a4.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\53d89f15-8ce7-4ce0-9aff-b0b7f9d924a4.png"
-    },
-    {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\583d3502-b857-436f-9f14-9ecc0c79b275.jpg",
-      "SourceId": "EcommerceWebProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/583d3502-b857-436f-9f14-9ecc0c79b275.jpg",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\583d3502-b857-436f-9f14-9ecc0c79b275.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\5dfc5f76-59dd-4c71-8d9b-26b476dc2487.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\5dfc5f76-59dd-4c71-8d9b-26b476dc2487.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/5dfc5f76-59dd-4c71-8d9b-26b476dc2487.jpg",
       "AssetKind": "All",
@@ -1727,12 +1727,12 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\5dfc5f76-59dd-4c71-8d9b-26b476dc2487.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\5f07c291-aacf-4014-a7a3-00973659828b.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\68aa3463-2d65-411f-a0ef-9ad9354e47ad.webp",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
-      "RelativePath": "images/product/5f07c291-aacf-4014-a7a3-00973659828b.jpg",
+      "RelativePath": "images/product/68aa3463-2d65-411f-a0ef-9ad9354e47ad.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1743,13 +1743,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\5f07c291-aacf-4014-a7a3-00973659828b.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\68aa3463-2d65-411f-a0ef-9ad9354e47ad.webp"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\6b2d77a7-b3da-423c-8bfd-38011d1fed37.jpeg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\6b2d77a7-b3da-423c-8bfd-38011d1fed37.jpeg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/6b2d77a7-b3da-423c-8bfd-38011d1fed37.jpeg",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\6b2d77a7-b3da-423c-8bfd-38011d1fed37.jpeg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\7fdfb97a-a342-4c95-9146-685a0117dbe8.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\7fdfb97a-a342-4c95-9146-685a0117dbe8.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/7fdfb97a-a342-4c95-9146-685a0117dbe8.jpg",
       "AssetKind": "All",
@@ -1784,29 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\7fdfb97a-a342-4c95-9146-685a0117dbe8.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\8050368a-8e7d-434c-a6e0-71fd3aa20393.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\90c3b8a5-797f-4d6d-bbad-9bacd1f1034b.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
-      "BasePath": "_content/EcommerceWebProject",
-      "RelativePath": "images/product/8050368a-8e7d-434c-a6e0-71fd3aa20393.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\8050368a-8e7d-434c-a6e0-71fd3aa20393.jpg"
-    },
-    {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\90c3b8a5-797f-4d6d-bbad-9bacd1f1034b.jpg",
-      "SourceId": "EcommerceWebProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/90c3b8a5-797f-4d6d-bbad-9bacd1f1034b.jpg",
       "AssetKind": "All",
@@ -1822,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\90c3b8a5-797f-4d6d-bbad-9bacd1f1034b.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\984d1026-6cca-49c7-8961-14ebbb25f5c5.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\984d1026-6cca-49c7-8961-14ebbb25f5c5.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/984d1026-6cca-49c7-8961-14ebbb25f5c5.jpg",
       "AssetKind": "All",
@@ -1841,12 +1822,12 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\984d1026-6cca-49c7-8961-14ebbb25f5c5.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\a8f5c1e1-73dc-4877-8d0e-7f5e5ab435ba.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\a1cfc863-50b7-49f7-b4b9-f4b603082cff.webp",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
-      "RelativePath": "images/product/a8f5c1e1-73dc-4877-8d0e-7f5e5ab435ba.jpg",
+      "RelativePath": "images/product/a1cfc863-50b7-49f7-b4b9-f4b603082cff.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1857,13 +1838,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\a8f5c1e1-73dc-4877-8d0e-7f5e5ab435ba.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\product\\a1cfc863-50b7-49f7-b4b9-f4b603082cff.webp"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\ab5aed31-8758-4b44-ab6a-f90cd5174dfd.jpeg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\ab5aed31-8758-4b44-ab6a-f90cd5174dfd.jpeg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/ab5aed31-8758-4b44-ab6a-f90cd5174dfd.jpeg",
       "AssetKind": "All",
@@ -1879,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\ab5aed31-8758-4b44-ab6a-f90cd5174dfd.jpeg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\b2670d97-d786-4676-a9d5-4aca00e1678c.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\b2670d97-d786-4676-a9d5-4aca00e1678c.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/b2670d97-d786-4676-a9d5-4aca00e1678c.jpg",
       "AssetKind": "All",
@@ -1898,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\b2670d97-d786-4676-a9d5-4aca00e1678c.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\d2598d3d-3e99-45e4-a955-2b2ac7113584.jfif",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\d2598d3d-3e99-45e4-a955-2b2ac7113584.jfif",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/d2598d3d-3e99-45e4-a955-2b2ac7113584.jfif",
       "AssetKind": "All",
@@ -1917,12 +1898,12 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\d2598d3d-3e99-45e4-a955-2b2ac7113584.jfif"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\e9e19c0c-c8cc-4a02-b848-b8c1e91a40c2.png",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\d5e4dfe7-0695-4ae1-a381-8ffb38ee3025.webp",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
-      "RelativePath": "images/product/e9e19c0c-c8cc-4a02-b848-b8c1e91a40c2.png",
+      "RelativePath": "images/product/d5e4dfe7-0695-4ae1-a381-8ffb38ee3025.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1933,13 +1914,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\e9e19c0c-c8cc-4a02-b848-b8c1e91a40c2.png"
+      "OriginalItemSpec": "wwwroot\\images\\product\\d5e4dfe7-0695-4ae1-a381-8ffb38ee3025.webp"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\f28b95e4-c360-4eb8-9908-829f209f1175.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\f28b95e4-c360-4eb8-9908-829f209f1175.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/f28b95e4-c360-4eb8-9908-829f209f1175.jpg",
       "AssetKind": "All",
@@ -1955,10 +1936,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\f28b95e4-c360-4eb8-9908-829f209f1175.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\f39ebc3f-d646-4d75-9f6a-d585ae4ed045.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\f2dba059-0273-4972-82b8-965e77ba636b.jpeg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "BasePath": "_content/EcommerceWebProject",
+      "RelativePath": "images/product/f2dba059-0273-4972-82b8-965e77ba636b.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\f2dba059-0273-4972-82b8-965e77ba636b.jpeg"
+    },
+    {
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\f39ebc3f-d646-4d75-9f6a-d585ae4ed045.jpg",
+      "SourceId": "EcommerceWebProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/f39ebc3f-d646-4d75-9f6a-d585ae4ed045.jpg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\f39ebc3f-d646-4d75-9f6a-d585ae4ed045.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\f509819c-8e11-4a4f-982d-893b5be612b6.webp",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\f509819c-8e11-4a4f-982d-893b5be612b6.webp",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/product/f509819c-8e11-4a4f-982d-893b5be612b6.webp",
       "AssetKind": "All",
@@ -1993,10 +1993,29 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\f509819c-8e11-4a4f-982d-893b5be612b6.webp"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\puspak.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\product\\fd75dc8a-e990-46cc-b62a-c39bcf084077.jpeg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "BasePath": "_content/EcommerceWebProject",
+      "RelativePath": "images/product/fd75dc8a-e990-46cc-b62a-c39bcf084077.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\fd75dc8a-e990-46cc-b62a-c39bcf084077.jpeg"
+    },
+    {
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\puspak.jpg",
+      "SourceId": "EcommerceWebProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/puspak.jpg",
       "AssetKind": "All",
@@ -2012,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\images\\puspak.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\register.svg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\register.svg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/register.svg",
       "AssetKind": "All",
@@ -2031,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\images\\register.svg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\rushi.png",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\rushi.png",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/rushi.png",
       "AssetKind": "All",
@@ -2050,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rushi.png"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\sabiha.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\sabiha.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/sabiha.jpg",
       "AssetKind": "All",
@@ -2069,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sabiha.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\team dps\\098_Venkatesh Pujari_jh jpg.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\team dps\\098_Venkatesh Pujari_jh jpg.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/team dps/098_Venkatesh Pujari_jh jpg.jpg",
       "AssetKind": "All",
@@ -2088,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team dps\\098_Venkatesh Pujari_jh jpg.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\team dps\\puspak.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\team dps\\puspak.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/team dps/puspak.jpg",
       "AssetKind": "All",
@@ -2107,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team dps\\puspak.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\team dps\\rushi.png",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\team dps\\rushi.png",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/team dps/rushi.png",
       "AssetKind": "All",
@@ -2126,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team dps\\rushi.png"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\team dps\\sabiha.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\images\\team dps\\sabiha.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "images/team dps/sabiha.jpg",
       "AssetKind": "All",
@@ -2145,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\images\\team dps\\sabiha.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\js\\site.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\js\\site.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2164,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2183,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2202,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2221,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2240,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2259,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2278,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2297,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2316,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2335,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2354,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2373,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2392,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2411,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2430,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2449,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2468,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2487,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2506,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2525,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2544,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2563,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2582,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2601,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2620,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2639,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2658,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2677,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2696,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2715,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2734,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2753,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2772,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2791,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2810,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2829,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2848,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2867,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2886,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2905,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2924,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2943,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2962,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2981,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3000,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3019,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3038,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3057,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3076,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3095,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3114,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3133,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3152,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3171,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3190,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3209,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3228,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3247,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\team dps\\098_Venkatesh Pujari_jh jpg.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\team dps\\098_Venkatesh Pujari_jh jpg.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "team dps/098_Venkatesh Pujari_jh jpg.jpg",
       "AssetKind": "All",
@@ -3266,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\team dps\\098_Venkatesh Pujari_jh jpg.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\team dps\\puspak.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\team dps\\puspak.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "team dps/puspak.jpg",
       "AssetKind": "All",
@@ -3285,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\team dps\\puspak.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\team dps\\rushi.png",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\team dps\\rushi.png",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "team dps/rushi.png",
       "AssetKind": "All",
@@ -3304,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\team dps\\rushi.png"
     },
     {
-      "Identity": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\team dps\\sabiha.jpg",
+      "Identity": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\team dps\\sabiha.jpg",
       "SourceId": "EcommerceWebProject",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\wwwroot\\",
       "BasePath": "_content/EcommerceWebProject",
       "RelativePath": "team dps/sabiha.jpg",
       "AssetKind": "All",

@@ -8861,19 +8861,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RUSHIKESH\\.nuget\\packages\\": {}
+    "C:\\Users\\gulka\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\EcommerceWebProject.csproj",
+      "projectUniqueName": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\EcommerceWebProject.csproj",
       "projectName": "EcommerceWebProject",
-      "projectPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\EcommerceWebProject.csproj",
-      "packagesPath": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\",
-      "outputPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\EcommerceWebProject\\obj\\",
+      "projectPath": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\EcommerceWebProject.csproj",
+      "packagesPath": "C:\\Users\\gulka\\.nuget\\packages\\",
+      "outputPath": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\EcommerceWebProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RUSHIKESH\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\gulka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8887,11 +8887,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj": {
-              "projectPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj"
+            "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj": {
+              "projectPath": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj"
             },
-            "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj": {
-              "projectPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj"
+            "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj": {
+              "projectPath": "D:\\CDAC\\FINAL PROJECTS\\Ecommerce-Online-Shopping\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj"
             }
           }
         }

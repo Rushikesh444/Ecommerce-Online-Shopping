@@ -23,7 +23,7 @@ const Products = () => {
   const currentUser = store.getState().user;
   const [data, setData] = useState([]);
   const [filter, setFilter] = useState(data);
-  const [loading, setLoading] = useState(false);
+  const [loading, setLoading] = useState(true);
   const [categorie, setCategorie] = useState([]);
   let componentMounted = true;
   const BASE_URL="http://localhost:8080/products/";
@@ -89,7 +89,7 @@ const Products = () => {
         <div className="col-md-4 col-sm-6 col-xs-8 col-12 mb-4 mt-5">
           <Skeleton height={592} />
         </div>
-        <div className="col-md-4 col-sm-6 col-xs-8 col-12 mb-4">
+        <div className="col-md-4 col-sm-6 col-xs-8 col-12 mb-4 mt-5">
           <Skeleton height={592} />
         </div>
       </>
