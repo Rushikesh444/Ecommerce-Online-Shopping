@@ -179,7 +179,7 @@ namespace EcommerceWebProject.Areas.Customer.Controllers
                     options.LineItems.Add(sessionLineItem);
                 }
                 var service = new Stripe.Checkout.SessionService();
-                Stripe.Checkout.Session session = service.Create(options);
+                Stripe.Checkout.Session session = service.Create(options); 
                 Response.Headers.Add("Location", session.Url);
                 return new StatusCodeResult(303);
             }

@@ -6,6 +6,7 @@ import { useDispatch } from "react-redux";
 import { toast } from "react-toastify";
 import CartItem from "../models/item";
 import cartService from "../services/cart.service";
+
 export const ProductsDetails = () => {
   const { id } = useParams();
   const [product, setProduct] = useState(null);
@@ -18,6 +19,7 @@ export const ProductsDetails = () => {
   const [filter, setFilter] = useState(data);
   const [loading, setLoading] = useState(false);
   const [categorie, setCategorie] = useState([]);
+  
   let componentMounted = true;
   const BASE_URL="http://localhost:8080/products/";
 

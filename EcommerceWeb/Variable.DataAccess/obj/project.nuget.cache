@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TkWmicxx9WbUX9jwc4jZc1FAYwOV7FkOHAbotgX3V6gd1VldOCdppD+1edJ+4mkB8PkY4ctFjahPrxX4I4BswQ==",
+  "dgSpecHash": "7/d729l3nIcpL+30+ALfwbpSrUGIlXatfriBqqTCGuOB5Jo4JIzx/ZAS21YEPcs4fLDXRJe0Qh4iSTzDrXfnNw==",
   "success": true,
-  "projectFilePath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj",
+  "projectFilePath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RUSHIKESH\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\RUSHIKESH\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

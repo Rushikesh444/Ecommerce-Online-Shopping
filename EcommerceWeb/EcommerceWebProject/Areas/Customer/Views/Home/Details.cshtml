@@ -62,8 +62,17 @@
                                     <span class="input-group-text fw-semibold" id="inputGroup-sizing-default">
                                         Count
                                     </span>
-                                    <input asp-for="Count" type="number" value="1" class="form-control text-end"
-                                           aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" />
+                                        <input asp-for="Count" type="number" value="1" class="form-control text-end"
+                                               aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" oninput="validatePositiveValue(this)" />
+
+                                        <script>
+                                            function validatePositiveValue(input) {
+                                                if (input.value < 1) {
+                                                    input.value = 1; // Set default value to 1 if negative value is entered
+                                                }
+                                            }
+                                        </script>
+
                                 </div>
                             </div>
                         </div>
