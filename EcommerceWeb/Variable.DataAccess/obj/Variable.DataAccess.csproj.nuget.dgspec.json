@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj": {}
+    "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj": {
+    "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj",
+        "projectUniqueName": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj",
         "projectName": "Variable.DataAccess",
-        "projectPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj",
+        "projectPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj",
         "packagesPath": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\",
-        "outputPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.DataAccess\\obj\\",
+        "outputPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RUSHIKESH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj": {
-                "projectPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj"
+              "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj": {
+                "projectPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj"
               },
-              "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj": {
-                "projectPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj"
+              "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj": {
+                "projectPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj"
               }
             }
           }
@@ -108,14 +108,14 @@
         }
       }
     },
-    "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj": {
+    "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj",
+        "projectUniqueName": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj",
         "projectName": "Variable.Models",
-        "projectPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj",
+        "projectPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj",
         "packagesPath": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\",
-        "outputPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Models\\obj\\",
+        "outputPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RUSHIKESH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -166,14 +166,14 @@
         }
       }
     },
-    "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj": {
+    "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj",
+        "projectUniqueName": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj",
         "projectName": "Variable.Utility",
-        "projectPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj",
+        "projectPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj",
         "packagesPath": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\",
-        "outputPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Utility\\obj\\",
+        "outputPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RUSHIKESH\\AppData\\Roaming\\NuGet\\NuGet.Config",

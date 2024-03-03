@@ -7566,11 +7566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj",
+      "projectUniqueName": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj",
       "projectName": "Variable.DataAccess",
-      "projectPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj",
+      "projectPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.DataAccess\\Variable.DataAccess.csproj",
       "packagesPath": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\",
-      "outputPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.DataAccess\\obj\\",
+      "outputPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RUSHIKESH\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7587,11 +7587,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj": {
-              "projectPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj"
+            "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj": {
+              "projectPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj"
             },
-            "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj": {
-              "projectPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj"
+            "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj": {
+              "projectPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Utility\\Variable.Utility.csproj"
             }
           }
         }

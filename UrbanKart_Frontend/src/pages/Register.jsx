@@ -132,9 +132,9 @@ const Register = () => {
                     </div>
 
                     <div class="col-md-8 col-lg-8 col-sm-8 mx-auto">
-                        <form onSubmit={(e) => handleRegister(e)} class="my-form" style={{backgroundColor: "#000"}}>
+                        <form onSubmit={(e) => handleRegister(e)} class="my-form" style={{backgroundColor: "#fff"}}>
                         <div class="form-group" >
-                            <label for="FName" style={{color: "#fff"}}>First Name</label>
+                            <label for="FName" >First Name</label>
                             <input
                                 type="text"
                                 class="form-control"
@@ -148,7 +148,7 @@ const Register = () => {
                             {validationErrors.firstName && <span className="text-danger">{validationErrors.firstName}</span>}
                         </div>
                         <div class="form-group">
-                            <label for="LName" style={{color: "#fff"}}>Last Name</label>
+                            <label for="LName" >Last Name</label>
                             <input
                                 type="text"
                                 class="form-control"
@@ -162,7 +162,7 @@ const Register = () => {
                             {validationErrors.lastName && <span className="text-danger">{validationErrors.lastName}</span>}
                         </div>
                         <div class="form-group">
-                            <label for="Email" style={{color: "#fff"}}>Email address</label>
+                            <label for="Email" >Email address</label>
                             <input
                                 type="email"
                                 class="form-control"
@@ -176,7 +176,7 @@ const Register = () => {
                             {validationErrors.email && <span className="text-danger">{validationErrors.email}</span>}
                         </div>
                         <div class="form-group">
-                            <label for="Password" style={{color: "#fff"}}>Password</label>
+                            <label for="Password" >Password</label>
                             <input
                                 type="password"
                                 class="form-control"
@@ -190,7 +190,7 @@ const Register = () => {
                             {validationErrors.password && <span className="text-danger">{validationErrors.password}</span>}                            
                         </div>
                         <div class="form-group">
-                            <label for="Role" style={{color: "#fff"}}>Role</label>
+                            <label for="Role" >Role</label>
                             <select
                                 class="form-control"
                                 id="Role"
@@ -205,7 +205,7 @@ const Register = () => {
                             </select>
                         </div>
                         <div class="form-group">
-                            <label for="Mobile Number" style={{color: "#fff"}}>Mobile Number</label>
+                            <label for="Mobile Number" >Mobile Number</label>
                             <input
                                 type="text"
                                 class="form-control"
@@ -222,7 +222,7 @@ const Register = () => {
                         </div>
 
                             <div class="my-3" >
-                                <p style={{color: "#fff"}}>
+                                <p>
                                     Already have an account? <a href="/login" class="text-decoration-underline text-info">Login</a>
                                 </p>
                             </div>

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj",
+      "projectUniqueName": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj",
       "projectName": "Variable.Models",
-      "projectPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj",
+      "projectPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Models\\Variable.Models.csproj",
       "packagesPath": "C:\\Users\\RUSHIKESH\\.nuget\\packages\\",
-      "outputPath": "D:\\CDAC\\DotNET\\EcommerceWebzip\\EcommerceWeb\\Variable.Models\\obj\\",
+      "outputPath": "D:\\CDAC\\DotNET\\DOTNET FINAL\\DOTNET FINAL\\EcommerceWeb\\Variable.Models\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RUSHIKESH\\AppData\\Roaming\\NuGet\\NuGet.Config",

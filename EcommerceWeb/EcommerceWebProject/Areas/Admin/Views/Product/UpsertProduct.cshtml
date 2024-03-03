@@ -62,7 +62,7 @@
                         </div>
                         <div class="form-outline mb-4">
                             <label asp-for="Product.CategoryId" class="form-label"></label>
-                            <select asp-for="@Model.Product.CategoryId" asp-items="@Model.CategoryList" id="form3Example8" class="form-select form-select-lg shadow" style="height: 40px;">
+                            <select asp-for="@Model.Product.CategoryId" asp-items="@Model.CategoryList" id="form3Example8" class="form-select shadow" style="height: 40px;">
                                 <option disabled selected>--Select Category--</option>
                             </select>
                             <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
